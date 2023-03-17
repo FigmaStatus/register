@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "Project Description",
+
+  "domain": "is-cool.dev",
+  "subdomain": "flaxdev",
+
+  "owner": {
+    "repo": "https://github.com/FigmaStatus/register",
+    "email": "server.cooper@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "louloudev59.github.io/flaxdev/",
+  },
+
+  "proxy": false
+}
